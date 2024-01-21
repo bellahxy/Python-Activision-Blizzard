@@ -2,8 +2,8 @@
 ## PPHA 30538 Data and Programming for Public Policy II - Python Programming Autumn 2023
 
 ## Group Members:
-- Kathy Zhang: zhangruoxikathy
 - Bella Huang: bellahxy
+- Kathy Zhang: zhangruoxikathy
 - Hanbin Kim: hkim803
 
 ## File Management (most .py files are connected and run after each other):
