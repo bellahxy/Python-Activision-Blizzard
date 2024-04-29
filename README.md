@@ -1,11 +1,6 @@
 # Final Project: Leveling up: A Deep Dive into Microsoft’s Historical $69B Gaming Move
 ## PPHA 30538 Data and Programming for Public Policy II - Python Programming Autumn 2023
 
-## Group Members:
-- Bella Huang: bellahxy
-- Kathy Zhang: zhangruoxikathy
-- Hanbin Kim: hkim803
-
 ## File Management (most .py files are connected and run after each other):
 
 - `DataRetrieval.py`: Retrieves data directly from web, which includes web scraping and text processing.
